@@ -236,8 +236,8 @@ proxy-groups:
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
-      - 🎯 全球直连
       - 🚀 节点选择
+      - 🎯 全球直连
       - 🇨🇳 Pool_🇹🇼TW_2724
       - 🇨🇳 Pool_🇹🇼TW_2725
       - 🇨🇳 Pool_🇹🇼TW_2726
