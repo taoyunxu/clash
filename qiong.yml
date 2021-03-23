@@ -84,21 +84,15 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -137,21 +131,15 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -173,7 +161,6 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2736
       - 🇨🇳 Pool_🇹🇼TW_2737
       - 🇨🇳 Pool_🇹🇼TW_2738
-      - 🇨🇳 TW_2739
       - 🇨🇳 Pool_🇹🇼TW_2740
       - 🇨🇳 Pool_🇹🇼TW_2741
       - 🇨🇳 Pool_🇹🇼TW_2742
@@ -191,27 +178,20 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬 Pool_🇸🇬SG_2630
       - 🇨🇳 Pool_🇹🇼TW_2724
       - 🇨🇳 Pool_🇹🇼TW_2725
       - 🇨🇳 Pool_🇹🇼TW_2726
@@ -244,28 +224,21 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇭🇰 Pool_🇭🇰HK_1510
-      - 🇨🇳 Pool_🇹🇼TW_2724
+     - 🇨🇳 Pool_🇹🇼TW_2724
       - 🇨🇳 Pool_🇹🇼TW_2725
       - 🇨🇳 Pool_🇹🇼TW_2726
       - 🇨🇳 Pool_🇹🇼TW_2727
@@ -297,31 +270,20 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬 Pool_🇸🇬SG_2626
-      - 🇸🇬 Pool_🇸🇬SG_2627
-      - 🇸🇬 Pool_🇸🇬SG_2628
-      - 🇸🇬 Pool_🇸🇬SG_2629
-      - 🇸🇬 Pool_🇸🇬SG_2630
       - 🇨🇳 Pool_🇹🇼TW_2724
       - 🇨🇳 Pool_🇹🇼TW_2725
       - 🇨🇳 Pool_🇹🇼TW_2726
@@ -354,21 +316,15 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -407,21 +363,15 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -476,21 +426,15 @@ proxy-groups:
       - 🇨🇳 Pool_🇹🇼TW_2754
       - 🇨🇳 Pool_🇹🇼TW_2755
       - 🇨🇳 Pool_🇹🇼TW_2757
-      - 🇨🇳 TW_2758
-      - 🇨🇳 Pool_🇹🇼TW_2759
-      - 🇨🇳 Pool_🇹🇼TW_2760
-      - 🇨🇳 Pool_🇹🇼TW_2761
       - 🇨🇳 Pool_🇹🇼TW_2770
       - 🇨🇳 Pool_🇹🇼TW_2777
       - 🇨🇳 Pool_🇹🇼TW_2778
       - 🇨🇳 Pool_🇹🇼TW_2779
       - 🇨🇳 Pool_🇹🇼TW_2780
-      - 🇨🇳 Pool_🇹🇼TW_2781
       - 🇨🇳 Pool_🇹🇼TW_2782
       - 🇨🇳 Pool_🇹🇼TW_2783
       - 🇨🇳 Pool_🇹🇼TW_2784
       - 🇨🇳 Pool_🇹🇼TW_2785
-      - 🇨🇳 Pool_🇹🇼TW_2786
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
