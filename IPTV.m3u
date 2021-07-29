@@ -9,8 +9,12 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv3hd/3000/01.m3u8
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv4hd/3000/01.m3u8
 #EXTINF:-1 ,CCTV-5蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/2500/01.m3u8
+EXTINF:-1 ,CCTV-5 
+http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-5+蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/2500/01.m3u8
+#EXTINF:-1 ,CCTV-5
+http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-6蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/01.m3u8
 #EXTINF:-1 ,CCTV-7蓝光 
@@ -70,9 +74,7 @@ http://pullhls3948069e.live.126.net/live/086a6d5a6a013a02e901286c9478ae66/playli
 #EXTINF:-1 ,江苏卫视 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/jiangsuTV/1000/01.m3u8
 #EXTINF:-1 ,东南卫视蓝光 
-http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
-#EXTINF:-1 ,东南卫视蓝光 
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8
+http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8
 #EXTINF:-1 ,山东卫视蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_v/2018/SD/shandongedu/1000/01.m3u8
 #EXTINF:-1 ,湖北卫视蓝光 
@@ -89,6 +91,8 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-heilongjianghd-1200/01.m3u8
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/01.m3u8
 #EXTINF:-1 ,河南卫视蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-henanwssd-600/01.m3u8
+#EXTINF:-1 ,Oscar
+http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0827-1620-07330_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1627551433&vkey=e22b7740860911
 #EXTINF:-1 ,电视剧HD
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dianshijuhd/600/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ddedcb5fe90576102eb254e34cb20483
 #EXTINF:-1 ,蓝光影视1台
