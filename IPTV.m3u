@@ -41,24 +41,8 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/57
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/57/01.m3u8
 #EXTINF:-1 ,CCTV-4K蓝码 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/doc/1000/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=14416916f4ad1f43189525747f1a7819
-#EXTINF:-1 ,凤凰卫视资讯台 
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台 
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 ,凤凰卫视中文台 
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 ,凤凰卫视中文台 
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 ,北京卫视蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/ws_w/2018/bjws/bjws2000/2000/01.m3u8
-#EXTINF:-1 ,天津卫视蓝光 
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1 ,天津卫视蓝光 
-http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
-#EXTINF:-1 ,河北卫视蓝光 
-http://39.135.15.70:6610/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,河北卫视超清 
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
 #EXTINF:-1 ,东方卫视蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/3000/01.m3u8
 #EXTINF:-1 ,湖南卫视蓝光 
