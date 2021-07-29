@@ -63,6 +63,8 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/3000/01.m3u8
 #EXTINF:-1 ,湖南卫视蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/01.m3u8
+#EXTINF:-1 ,湖南卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 ,劲爆体育
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 ,新视角HD
@@ -91,6 +93,12 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-heilongjianghd-1200/01.m3u8
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/01.m3u8
 #EXTINF:-1 ,河南卫视蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-henanwssd-600/01.m3u8
+#EXTINF:-1 ,邻家少女
+http://121.12.115.118/tx.hls.huya.com/src/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.m3u8?wsSecret=96403626c13f8e89d1f2b64153431270&wsTime=61027984&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct
+#EXTINF:-1 ,欧美电影
+http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-558-1015-0051-20196_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1627551956&vkey=
+#EXTINF:-1 ,新相亲大会
+http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-787-1015-0052-33899_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1627551691&vkey=
 #EXTINF:-1 ,Oscar
 http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0827-1620-07330_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1627551433&vkey=e22b7740860911
 #EXTINF:-1 ,电视剧HD
