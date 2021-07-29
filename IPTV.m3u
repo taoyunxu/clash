@@ -1,0 +1,119 @@
+﻿#EXTM3U
+#EXTINF:-1 ,CCTV-1蓝光
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/2500/01.m3u8
+#EXTINF:-1 ,CCTV-2蓝光
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv2hd/3000/01.m3u8
+#EXTINF:-1 ,CCTV-3蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv3hd/3000/01.m3u8
+#EXTINF:-1 ,CCTV-4蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv4hd/3000/01.m3u8
+#EXTINF:-1 ,CCTV-5蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/2500/01.m3u8
+#EXTINF:-1 ,CCTV-5+蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/2500/01.m3u8
+#EXTINF:-1 ,CCTV-6蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/01.m3u8
+#EXTINF:-1 ,CCTV-7蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv7hd/57/01.m3u8
+#EXTINF:-1 ,CCTV-8蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv8hd/3000/01.m3u8
+#EXTINF:-1 ,CCTV-9蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/57/01.m3u8
+#EXTINF:-1 ,CCTV-10蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8
+#EXTINF:-1 ,CCTV-11蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+#EXTINF:-1 ,CCTV-11蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv11hd/57/20200103/01.m3u8
+#EXTINF:-1 ,CCTV-12蓝光 
+hhttp://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/57/01.m3u8
+#EXTINF:-1 ,CCTV-13蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/1000/01.m3u8
+#EXTINF:-1 ,CCTV-14蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv14hd/3000/01.m3u8
+#EXTINF:-1 ,CCTV-15蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/57/01.m3u8
+#EXTINF:-1 ,CCTV-17蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/57/01.m3u8
+#EXTINF:-1 ,CCTV-4K蓝码 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/doc/1000/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=14416916f4ad1f43189525747f1a7819
+#EXTINF:-1 ,凤凰卫视资讯台 
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台 
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 ,凤凰卫视中文台 
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 ,凤凰卫视中文台 
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 ,北京卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/ws_w/2018/bjws/bjws2000/2000/01.m3u8
+#EXTINF:-1 ,天津卫视蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+#EXTINF:-1 ,天津卫视蓝光 
+http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
+#EXTINF:-1 ,河北卫视蓝光 
+http://39.135.15.70:6610/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河北卫视超清 
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
+#EXTINF:-1 ,东方卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/3000/01.m3u8
+#EXTINF:-1 ,湖南卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/01.m3u8
+#EXTINF:-1 ,浙江卫视蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+#EXTINF:-1 ,浙江卫视蓝光 
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 ,江苏卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/jiangsuTV/1000/01.m3u8
+#EXTINF:-1 ,东南卫视蓝光 
+http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+#EXTINF:-1 ,东南卫视蓝光 
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8
+#EXTINF:-1 ,山东卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_v/2018/SD/shandongedu/1000/01.m3u8
+#EXTINF:-1 ,湖北卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8
+#EXTINF:-1 ,安徽卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/anhuiwshd/2000/01.m3u8
+#EXTINF:-1 ,广东卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/guangdong/1000/01.m3u8
+#EXTINF:-1 ,辽宁卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/liaoningwshd/2000/01.m3u8
+#EXTINF:-1 ,龙江卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-heilongjianghd-1200/01.m3u8
+#EXTINF:-1 ,重庆卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/01.m3u8
+#EXTINF:-1 ,河南卫视蓝光 
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-henanwssd-600/01.m3u8
+#EXTINF:-1 ,电视剧HD
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dianshijuhd/600/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ddedcb5fe90576102eb254e34cb20483
+#EXTINF:-1 ,蓝光影视1台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/cctv/gaoqingdapian/600/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ccbd347c18f51ac3bde22b7740860911
+#EXTINF:-1 ,蓝光影视2台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/virtuallive/5100144102/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c7cc80b55edadecb0a13b1661230414a
+#EXTINF:-1 ,蓝光影视3台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/virtuallive/5100179386/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=58013023e2209c7bc4495358db44ac8f
+#EXTINF:-1 ,蓝光影视4台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r1/virtuallive/5101000751/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5bd9dc483c256bd127472f1b2f6c1eef
+#EXTINF:-1 ,蓝光影视5台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r1/virtuallive/5101000755/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=02a76fb8c48a1182c2ac7de8b24276f7
+#EXTINF:-1 ,蓝光影视6台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r1/virtuallive/5101000747/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fb02ee4d095ecd739560460e6b5101a3
+#EXTINF:-1 ,蓝光影视7台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/virtuallive/5100178536/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=32d373f7ccfea80d9802e72e4ad605a8
+#EXTINF:-1 ,蓝光影视8台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5100181876/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a11d823914f92bb3ad6b07be75ca55a2
+#EXTINF:-1 ,蓝光影视9台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5100181674/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9a84b103692a53de3be04bfd5860307b
+#EXTINF:-1 ,蓝光影视10台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5102010213/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b40689b0e91205690f84704488bb46d3
+#EXTINF:-1 ,蓝光影视11台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5102010221/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7f5de7f0b6236b53e229d73b34c29cbe
+#EXTINF:-1 ,蓝光影视12台
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1 ,蓝光动画13台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5102010221/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7f5de7f0b6236b53e229d73b34c29cbe
+#EXTINF:-1 ,蓝光动画14台
+hhttp://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/virtuallive/5101074616/150/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=442e5eb9dc9339f207ccaac65d282d57
+#EXTINF:-1 ,蓝光动漫15台
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5101098146/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d27ab9ea01b624e7a15e72151108b626
