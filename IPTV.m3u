@@ -59,11 +59,15 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/3000/01.m3u8
 #EXTINF:-1 ,湖南卫视蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/01.m3u8
-#EXTINF:-1 ,浙江卫视蓝光 
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 ,浙江卫视蓝光 
-http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:-1 ,江苏卫视蓝光 
+#EXTINF:-1 ,劲爆体育
+http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+#EXTINF:-1 ,新视角HD
+http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
+#EXTINF:-1 ,五星体育
+http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1 ,广东体育
+http://pullhls3948069e.live.126.net/live/086a6d5a6a013a02e901286c9478ae66/playlist.m3u8?wsSession=76551156630fec2c8daaa588-162754309872555&wsIPSercert=aedb0ddd23429c77759f0b757f62fe5f&wsMonitor=0#EXTINF:-1 ,江苏卫视蓝光 
+#EXTINF:-1 ,江苏卫视 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/jiangsuTV/1000/01.m3u8
 #EXTINF:-1 ,东南卫视蓝光 
 http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
