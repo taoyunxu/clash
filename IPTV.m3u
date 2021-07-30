@@ -41,6 +41,24 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv14hd/3000/01.m3u8
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/57/01.m3u8
 #EXTINF:-1 ,CCTV-17蓝光 
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/57/01.m3u8
+#EXTINF:-1 ,HBO 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 ,CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 ,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 ,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 ,CNN
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/chunks.m3u8
+#EXTINF:-1 ,AXN
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/chunks.m3u8
+#EXTINF:-1 ,NatGeoWild HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/chunks.m3u8
+#EXTINF:-1 ,CARTOON SD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+#EXTINF:-1 ,BBC
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/chunks.m3u8
 #EXTINF:-1 ,上海外语
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/waiyusd/600/01.m3u8
 #EXTINF:-1 ,上海第一财经
