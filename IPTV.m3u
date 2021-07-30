@@ -60,17 +60,17 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 #EXTINF:-1 ,BBC
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/chunks.m3u8
 #EXTINF:-1 ,上海外语
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/waiyusd/600/01.m3u8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/waiyusd/600/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2f29d584c690a21e6d39abfc123e6adc
 #EXTINF:-1 ,上海第一财经
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/01.m3u8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=945e7abc555899a3ea1a9abc11964974
 #EXTINF:-1 ,上海新闻综合
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/600/01.m3u8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/600/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0de62de54c3fd3f2eeea7aaa61fcf5e4
 #EXTINF:-1 ,上海电视剧HD
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dianshijuhd/600/01.m3u8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dianshijuhd/600/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ddedcb5fe90576102eb254e34cb20483
 #EXTINF:-1 ,最强综艺
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/cctv/zuiqiangzongyi/600/01.m3u8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/cctv/zuiqiangzongyi/600/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=603b04a909a477a1762585d35a47329c
 #EXTINF:-1 ,综艺现场
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/virtuallive/5100074920/75/01.m3u8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/virtuallive/5100074920/75/01.m3u8?&mtv_session=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f61d8ed299fb301c77f5c014fda096bd
 #EXTINF:-1 ,纬来体育
 http://pullhls3948069e.live.126.net/live/1929c88b619c3de6106dd02aba9545c8/playlist.m3u8
 #EXTINF:-1 ,广州竞技
